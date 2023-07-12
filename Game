@@ -1,0 +1,6 @@
+game_of_life.py: The Python file containing the logic and rules for the Game of Life simulation.
+grid.py: The Python file defining the grid structure and operations for the simulation.
+visualization.py: The Python file providing functions for visualizing the Game of Life simulation using a graphical interface.
+tests/: A directory containing unit tests for the simulation implementation.
+examples/: A directory with example scripts showcasing different patterns and scenarios in the Game of Life.
+README.md: A readme file explaining the rules of the Game of Life, installation instructions, and usage details.
